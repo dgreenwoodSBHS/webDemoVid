@@ -1,3 +1,8 @@
+@font-face {
+  font-family: hero;
+  src: url(fonts/BIRTH_OF_A_HERO.ttf);
+}
+
 html {
     background-color: gold;
 }
@@ -20,6 +25,8 @@ nav a {
     text-decoration: none;
     margin: 8%;
     font-size: 3vw;
+    font-family: hero;
+    color: white;
 }
 
 section {
