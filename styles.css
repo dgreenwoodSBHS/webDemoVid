@@ -8,11 +8,18 @@ html {
 }
 
 nav {
-    
+    background-color: #00a8ff;
+    padding: 20px 0px;
+    border: 2px soild white;
+    border-left: none;
+    border-right: none;
+    text-align: center;
 }
 
 nav a {
-    
+    text-decoration: none;
+    margin: 8%;
+    font-size: 3vw;
 }
 
 section {
